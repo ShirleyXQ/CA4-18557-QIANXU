@@ -67,7 +67,7 @@ class CreateBook extends Component {
 
               <figure class="image is-500x500">
 
-               <img src="https://b9222b6a-9766-412c-ac23-c4df5e739ba4.ws-eu01.gitpod.io/mini-browser/workspace/testCA4/bewd_CA4_starter/mern-full-stack/public/images/%E5%9B%BE%E4%B9%A617.jpg" alt=""></img>
+               <img src="public/images/图书17.jpg" alt="images17"></img>
 
              </figure>
 

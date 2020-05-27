@@ -29,7 +29,7 @@ export default class Home extends Component {
 
                              <figure class="image is-1024x859">
 
-               <img src="https://b9222b6a-9766-412c-ac23-c4df5e739ba4.ws-eu01.gitpod.io/mini-browser/workspace/testCA4/bewd_CA4_starter/mern-full-stack/public/images/librarylogo.png" alt=""></img>
+               <img src="public/images/librarylogo.png" alt="librarylogo"></img>
 
              </figure>
                             
@@ -70,7 +70,7 @@ export default class Home extends Component {
 
                  <figure class="image is-1024x859">
 
-               <img src="https://b9222b6a-9766-412c-ac23-c4df5e739ba4.ws-eu01.gitpod.io/mini-browser/workspace/testCA4/bewd_CA4_starter/mern-full-stack/public/images/librarylogo.png" alt=""></img>
+               <img src="public/images/librarylogo.png" alt="librarylogo"></img>
 
              </figure>
 
@@ -106,7 +106,7 @@ export default class Home extends Component {
                             
                            </div>
                         <div class="message-body">
-                      <img src="https://b9222b6a-9766-412c-ac23-c4df5e739ba4.ws-eu01.gitpod.io/mini-browser/workspace/testCA4/bewd_CA4_starter/mern-full-stack/public/images/bgImg.jpg" width="1920" height="700" alt="library backgroud"/>
+                      <img src="public/images/bgImg.jpg" width="1920" height="700" alt="library backgroud"/>
                  <nav class="panel ">
                    
                    <hr />
@@ -175,7 +175,7 @@ export default class Home extends Component {
 
                       <figure class="image is-641x300">
 
-               <img src="https://b9222b6a-9766-412c-ac23-c4df5e739ba4.ws-eu01.gitpod.io/mini-browser/workspace/testCA4/bewd_CA4_starter/mern-full-stack/public/images/%E5%9B%BE%E4%B9%A65.jpg" alt=""></img>
+               <img src="public/images/图书5.jpg" alt="image5"></img>
 
              </figure>
 

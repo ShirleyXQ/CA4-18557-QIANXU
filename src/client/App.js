@@ -18,8 +18,8 @@ const App = () => {
                  
 
 
-                   <a className="navbar-item has-background-primary " href="https://b9222b6a-9766-412c-ac23-c4df5e739ba4.ws-eu01.gitpod.io/mini-browser/workspace/testCA4/bewd_CA4_starter/mern-full-stack/public/images/librarylogo.png">
-                        <img src="https://b9222b6a-9766-412c-ac23-c4df5e739ba4.ws-eu01.gitpod.io/mini-browser/workspace/testCA4/bewd_CA4_starter/mern-full-stack/public/images/librarylogo.png" width="224" height="56" alt="library"/>
+                   <a className="navbar-item has-background-primary " href="public/images/librarylogo.png">
+                        <img src="public/images/librarylogo.png" width="224" height="56" alt="library logo"/>
                     </a>
                     
                     
